@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+h2{
+    background: cadetblue;
+    color: white;
+}
+body{
+    background-image: url("background.png");
+}
+div{
+    color: cadetblue;
+    font-size: 30px;
+}
